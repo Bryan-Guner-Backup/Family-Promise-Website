@@ -1,0 +1,3 @@
+[](https://familypromise.org/latest/press-releases/kiddie-academy/)
+
+### Click here...
