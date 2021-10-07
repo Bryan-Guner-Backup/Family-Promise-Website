@@ -1,1 +1,134 @@
-{"id":5714,"global_id":"familypromise.org?id=5714","global_id_lineage":["familypromise.org?id=5714"],"author":"111","status":"publish","date":"2021-08-03 11:10:40","date_utc":"2021-08-03 15:10:40","modified":"2021-08-03 14:02:06","modified_utc":"2021-08-03 18:02:06","url":"https:\/\/familypromise.org\/event\/family-promise-week-2021\/","rest_url":"https:\/\/familypromise.org\/wp-json\/tribe\/events\/v1\/events\/5714","title":"Family Promise Week","description":"<h3>Join us virtually from Oct 24 &#8211; 31, 2021!<\/h3>\n<p>Family Promise Week is a week-long national campaign led by Family Promise national and including our Affiliates nationwide. Affiliates run events and awareness campaigns across the country that engage their local communities. More information on this year&#8217;s programming will be available soon.<\/p>","excerpt":"","slug":"family-promise-week-2021","image":{"url":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo.png","id":5716,"extension":"png","width":500,"height":500,"sizes":{"medium":{"width":300,"height":300,"mime-type":"image\/png","url":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo-300x300.png"},"thumbnail":{"width":150,"height":150,"mime-type":"image\/png","url":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo-150x150.png"},"et-pb-post-main-image":{"width":400,"height":250,"mime-type":"image\/png","url":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo-400x250.png"},"et-pb-portfolio-image":{"width":400,"height":284,"mime-type":"image\/png","url":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo-400x284.png"},"et-pb-portfolio-module-image":{"width":500,"height":382,"mime-type":"image\/png","url":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo-500x382.png"},"et-pb-gallery-module-image-portrait":{"width":400,"height":500,"mime-type":"image\/png","url":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo-400x500.png"},"et-pb-image--responsive--phone":{"width":480,"height":480,"mime-type":"image\/png","url":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo-480x480.png"}}},"all_day":true,"start_date":"2021-10-24 00:00:00","start_date_details":{"year":"2021","month":"10","day":"24","hour":"00","minutes":"00","seconds":"00"},"end_date":"2021-10-31 23:59:59","end_date_details":{"year":"2021","month":"10","day":"31","hour":"23","minutes":"59","seconds":"59"},"utc_start_date":"2021-10-24 04:00:00","utc_start_date_details":{"year":"2021","month":"10","day":"24","hour":"04","minutes":"00","seconds":"00"},"utc_end_date":"2021-11-01 03:59:59","utc_end_date_details":{"year":"2021","month":"11","day":"01","hour":"03","minutes":"59","seconds":"59"},"timezone":"America\/New_York","timezone_abbr":"EDT","cost":"","cost_details":{"currency_symbol":"","currency_position":"prefix","values":[]},"website":"","show_map":false,"show_map_link":false,"hide_from_listings":false,"sticky":false,"featured":false,"categories":[],"tags":[],"venue":[],"organizer":[],"json_ld":{"@context":"http:\/\/schema.org","@type":"Event","name":"Family Promise Week","description":"&lt;p&gt;Join us virtually from Oct 24 - 31, 2021! Family Promise Week is a week-long national campaign led by Family Promise national and including our Affiliates nationwide. Affiliates run events [&hellip;]&lt;\/p&gt;\\n","image":"https:\/\/familypromise.org\/wp-content\/uploads\/2021\/08\/Family-Promise-Week-2020-logo.png","url":"https:\/\/familypromise.org\/event\/family-promise-week-2021\/","startDate":"2021-10-24T00:00:00-04:00","endDate":"2021-10-31T23:59:59-04:00","performer":"Organization"}}
+{
+  "id": 5714,
+  "global_id": "familypromise.org?id=5714",
+  "global_id_lineage": ["familypromise.org?id=5714"],
+  "author": "111",
+  "status": "publish",
+  "date": "2021-08-03 11:10:40",
+  "date_utc": "2021-08-03 15:10:40",
+  "modified": "2021-08-03 14:02:06",
+  "modified_utc": "2021-08-03 18:02:06",
+  "url": "https://familypromise.org/event/family-promise-week-2021/",
+  "rest_url": "https://familypromise.org/wp-json/tribe/events/v1/events/5714",
+  "title": "Family Promise Week",
+  "description": "<h3>Join us virtually from Oct 24 &#8211; 31, 2021!</h3>\n<p>Family Promise Week is a week-long national campaign led by Family Promise national and including our Affiliates nationwide. Affiliates run events and awareness campaigns across the country that engage their local communities. More information on this year&#8217;s programming will be available soon.</p>",
+  "excerpt": "",
+  "slug": "family-promise-week-2021",
+  "image": {
+    "url": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo.png",
+    "id": 5716,
+    "extension": "png",
+    "width": 500,
+    "height": 500,
+    "sizes": {
+      "medium": {
+        "width": 300,
+        "height": 300,
+        "mime-type": "image/png",
+        "url": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo-300x300.png"
+      },
+      "thumbnail": {
+        "width": 150,
+        "height": 150,
+        "mime-type": "image/png",
+        "url": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo-150x150.png"
+      },
+      "et-pb-post-main-image": {
+        "width": 400,
+        "height": 250,
+        "mime-type": "image/png",
+        "url": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo-400x250.png"
+      },
+      "et-pb-portfolio-image": {
+        "width": 400,
+        "height": 284,
+        "mime-type": "image/png",
+        "url": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo-400x284.png"
+      },
+      "et-pb-portfolio-module-image": {
+        "width": 500,
+        "height": 382,
+        "mime-type": "image/png",
+        "url": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo-500x382.png"
+      },
+      "et-pb-gallery-module-image-portrait": {
+        "width": 400,
+        "height": 500,
+        "mime-type": "image/png",
+        "url": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo-400x500.png"
+      },
+      "et-pb-image--responsive--phone": {
+        "width": 480,
+        "height": 480,
+        "mime-type": "image/png",
+        "url": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo-480x480.png"
+      }
+    }
+  },
+  "all_day": true,
+  "start_date": "2021-10-24 00:00:00",
+  "start_date_details": {
+    "year": "2021",
+    "month": "10",
+    "day": "24",
+    "hour": "00",
+    "minutes": "00",
+    "seconds": "00"
+  },
+  "end_date": "2021-10-31 23:59:59",
+  "end_date_details": {
+    "year": "2021",
+    "month": "10",
+    "day": "31",
+    "hour": "23",
+    "minutes": "59",
+    "seconds": "59"
+  },
+  "utc_start_date": "2021-10-24 04:00:00",
+  "utc_start_date_details": {
+    "year": "2021",
+    "month": "10",
+    "day": "24",
+    "hour": "04",
+    "minutes": "00",
+    "seconds": "00"
+  },
+  "utc_end_date": "2021-11-01 03:59:59",
+  "utc_end_date_details": {
+    "year": "2021",
+    "month": "11",
+    "day": "01",
+    "hour": "03",
+    "minutes": "59",
+    "seconds": "59"
+  },
+  "timezone": "America/New_York",
+  "timezone_abbr": "EDT",
+  "cost": "",
+  "cost_details": {
+    "currency_symbol": "",
+    "currency_position": "prefix",
+    "values": []
+  },
+  "website": "",
+  "show_map": false,
+  "show_map_link": false,
+  "hide_from_listings": false,
+  "sticky": false,
+  "featured": false,
+  "categories": [],
+  "tags": [],
+  "venue": [],
+  "organizer": [],
+  "json_ld": {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Family Promise Week",
+    "description": "&lt;p&gt;Join us virtually from Oct 24 - 31, 2021! Family Promise Week is a week-long national campaign led by Family Promise national and including our Affiliates nationwide. Affiliates run events [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://familypromise.org/wp-content/uploads/2021/08/Family-Promise-Week-2020-logo.png",
+    "url": "https://familypromise.org/event/family-promise-week-2021/",
+    "startDate": "2021-10-24T00:00:00-04:00",
+    "endDate": "2021-10-31T23:59:59-04:00",
+    "performer": "Organization"
+  }
+}
