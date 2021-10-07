@@ -730,12 +730,10 @@
           mobile_div.css({ display: "none" });
         }
 
-        mobile_div
-          .find(".et_social_networks")
-          .css({
-            "max-height": inner_contatiner_height + "px",
-            height: inner_contatiner_height + "px",
-          });
+        mobile_div.find(".et_social_networks").css({
+          "max-height": inner_contatiner_height + "px",
+          height: inner_contatiner_height + "px",
+        });
         if ($(window).height() < inner_contatiner_height) {
           var inner_height =
             $(window).height() -

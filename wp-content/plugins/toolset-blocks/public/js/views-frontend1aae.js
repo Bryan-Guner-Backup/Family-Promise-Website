@@ -1930,101 +1930,95 @@
                       setTimeout(function () {
                         (r = a.responseView.outerHeight()),
                           n === r
-                            ? a.wpvPaginatorLayout
-                                .parent()
-                                .animate(
-                                  {
-                                    marginLeft:
-                                      "-" +
-                                      a.wpvPaginatorLayout.outerWidth() +
-                                      "px",
-                                  },
-                                  a.speed + 500,
-                                  function () {
-                                    a.responseView.css({
-                                      position: "static",
-                                      float: "none",
-                                    }),
-                                      a.wpvPaginatorLayout
-                                        .unwrap()
-                                        .unwrap()
-                                        .remove(),
-                                      a.wpvPaginatorFilter.html(
-                                        a.responseFilter
-                                      ),
-                                      (window.wpvPaginationAjaxLoaded[
-                                        a.view_number
-                                      ] = !0),
-                                      (window.wpvPaginationAnimationFinished[
-                                        a.view_number
-                                      ] = !0),
-                                      a.callback_next_func(),
-                                      t.manage_browser_history(s),
-                                      e(document).trigger(
-                                        "js_event_wpv_pagination_completed",
-                                        [o]
-                                      ),
-                                      t.pagination_queue_trigger(
-                                        a.view_number,
-                                        a.next,
-                                        a.wpvPaginatorFilter
-                                      );
-                                  }
-                                )
-                            : n > r
-                            ? a.wpvPaginatorLayout
-                                .parent()
-                                .animate(
-                                  {
-                                    marginLeft:
-                                      "-" +
-                                      a.wpvPaginatorLayout.outerWidth() +
-                                      "px",
-                                  },
-                                  a.speed + 500,
-                                  function () {
+                            ? a.wpvPaginatorLayout.parent().animate(
+                                {
+                                  marginLeft:
+                                    "-" +
+                                    a.wpvPaginatorLayout.outerWidth() +
+                                    "px",
+                                },
+                                a.speed + 500,
+                                function () {
+                                  a.responseView.css({
+                                    position: "static",
+                                    float: "none",
+                                  }),
                                     a.wpvPaginatorLayout
-                                      .parent()
-                                      .parent()
-                                      .animate(
-                                        {
-                                          height:
-                                            a.responseView.outerHeight() + "px",
-                                        },
-                                        a.speed / 2,
-                                        function () {
-                                          a.responseView.css({
-                                            position: "static",
-                                            float: "none",
-                                          }),
-                                            a.wpvPaginatorLayout
-                                              .unwrap()
-                                              .unwrap()
-                                              .remove(),
-                                            a.wpvPaginatorFilter.html(
-                                              a.responseFilter
-                                            ),
-                                            (window.wpvPaginationAjaxLoaded[
-                                              a.view_number
-                                            ] = !0),
-                                            (window.wpvPaginationAnimationFinished[
-                                              a.view_number
-                                            ] = !0),
-                                            a.callback_next_func(),
-                                            t.manage_browser_history(s),
-                                            e(document).trigger(
-                                              "js_event_wpv_pagination_completed",
-                                              [o]
-                                            ),
-                                            t.pagination_queue_trigger(
-                                              a.view_number,
-                                              a.next,
-                                              a.wpvPaginatorFilter
-                                            );
-                                        }
-                                      );
-                                  }
-                                )
+                                      .unwrap()
+                                      .unwrap()
+                                      .remove(),
+                                    a.wpvPaginatorFilter.html(a.responseFilter),
+                                    (window.wpvPaginationAjaxLoaded[
+                                      a.view_number
+                                    ] = !0),
+                                    (window.wpvPaginationAnimationFinished[
+                                      a.view_number
+                                    ] = !0),
+                                    a.callback_next_func(),
+                                    t.manage_browser_history(s),
+                                    e(document).trigger(
+                                      "js_event_wpv_pagination_completed",
+                                      [o]
+                                    ),
+                                    t.pagination_queue_trigger(
+                                      a.view_number,
+                                      a.next,
+                                      a.wpvPaginatorFilter
+                                    );
+                                }
+                              )
+                            : n > r
+                            ? a.wpvPaginatorLayout.parent().animate(
+                                {
+                                  marginLeft:
+                                    "-" +
+                                    a.wpvPaginatorLayout.outerWidth() +
+                                    "px",
+                                },
+                                a.speed + 500,
+                                function () {
+                                  a.wpvPaginatorLayout
+                                    .parent()
+                                    .parent()
+                                    .animate(
+                                      {
+                                        height:
+                                          a.responseView.outerHeight() + "px",
+                                      },
+                                      a.speed / 2,
+                                      function () {
+                                        a.responseView.css({
+                                          position: "static",
+                                          float: "none",
+                                        }),
+                                          a.wpvPaginatorLayout
+                                            .unwrap()
+                                            .unwrap()
+                                            .remove(),
+                                          a.wpvPaginatorFilter.html(
+                                            a.responseFilter
+                                          ),
+                                          (window.wpvPaginationAjaxLoaded[
+                                            a.view_number
+                                          ] = !0),
+                                          (window.wpvPaginationAnimationFinished[
+                                            a.view_number
+                                          ] = !0),
+                                          a.callback_next_func(),
+                                          t.manage_browser_history(s),
+                                          e(document).trigger(
+                                            "js_event_wpv_pagination_completed",
+                                            [o]
+                                          ),
+                                          t.pagination_queue_trigger(
+                                            a.view_number,
+                                            a.next,
+                                            a.wpvPaginatorFilter
+                                          );
+                                      }
+                                    );
+                                }
+                              )
                             : a.wpvPaginatorLayout
                                 .parent()
                                 .parent()
@@ -2034,47 +2028,45 @@
                                   },
                                   a.speed / 2,
                                   function () {
-                                    a.wpvPaginatorLayout
-                                      .parent()
-                                      .animate(
-                                        {
-                                          marginLeft:
-                                            "-" +
-                                            a.wpvPaginatorLayout.outerWidth() +
-                                            "px",
-                                        },
-                                        a.speed + 500,
-                                        function () {
-                                          a.responseView.css({
-                                            position: "static",
-                                            float: "none",
-                                          }),
-                                            a.wpvPaginatorLayout
-                                              .unwrap()
-                                              .unwrap()
-                                              .remove(),
-                                            a.wpvPaginatorFilter.html(
-                                              a.responseFilter
-                                            ),
-                                            (window.wpvPaginationAjaxLoaded[
-                                              a.view_number
-                                            ] = !0),
-                                            (window.wpvPaginationAnimationFinished[
-                                              a.view_number
-                                            ] = !0),
-                                            a.callback_next_func(),
-                                            t.manage_browser_history(s),
-                                            e(document).trigger(
-                                              "js_event_wpv_pagination_completed",
-                                              [o]
-                                            ),
-                                            t.pagination_queue_trigger(
-                                              a.view_number,
-                                              a.next,
-                                              a.wpvPaginatorFilter
-                                            );
-                                        }
-                                      );
+                                    a.wpvPaginatorLayout.parent().animate(
+                                      {
+                                        marginLeft:
+                                          "-" +
+                                          a.wpvPaginatorLayout.outerWidth() +
+                                          "px",
+                                      },
+                                      a.speed + 500,
+                                      function () {
+                                        a.responseView.css({
+                                          position: "static",
+                                          float: "none",
+                                        }),
+                                          a.wpvPaginatorLayout
+                                            .unwrap()
+                                            .unwrap()
+                                            .remove(),
+                                          a.wpvPaginatorFilter.html(
+                                            a.responseFilter
+                                          ),
+                                          (window.wpvPaginationAjaxLoaded[
+                                            a.view_number
+                                          ] = !0),
+                                          (window.wpvPaginationAnimationFinished[
+                                            a.view_number
+                                          ] = !0),
+                                          a.callback_next_func(),
+                                          t.manage_browser_history(s),
+                                          e(document).trigger(
+                                            "js_event_wpv_pagination_completed",
+                                            [o]
+                                          ),
+                                          t.pagination_queue_trigger(
+                                            a.view_number,
+                                            a.next,
+                                            a.wpvPaginatorFilter
+                                          );
+                                      }
+                                    );
                                   }
                                 );
                       }, t.REPLACE_BUFFER_MILISECONDS))
@@ -2271,45 +2263,41 @@
                       setTimeout(function () {
                         (r = a.responseView.outerHeight()),
                           i === r
-                            ? a.wpvPaginatorLayout
-                                .parent()
-                                .animate(
-                                  {
-                                    marginTop:
-                                      "-" + a.responseView.outerHeight() + "px",
-                                  },
-                                  a.speed + 500,
-                                  function () {
-                                    a.responseView.css({
-                                      position: "static",
-                                      margin: "0px",
-                                    }),
-                                      a.wpvPaginatorLayout
-                                        .unwrap()
-                                        .unwrap()
-                                        .remove(),
-                                      a.wpvPaginatorFilter.html(
-                                        a.responseFilter
-                                      ),
-                                      (window.wpvPaginationAjaxLoaded[
-                                        a.view_number
-                                      ] = !0),
-                                      (window.wpvPaginationAnimationFinished[
-                                        a.view_number
-                                      ] = !0),
-                                      a.callback_next_func(),
-                                      t.manage_browser_history(o),
-                                      e(document).trigger(
-                                        "js_event_wpv_pagination_completed",
-                                        [n]
-                                      ),
-                                      t.pagination_queue_trigger(
-                                        a.view_number,
-                                        a.next,
-                                        a.wpvPaginatorFilter
-                                      );
-                                  }
-                                )
+                            ? a.wpvPaginatorLayout.parent().animate(
+                                {
+                                  marginTop:
+                                    "-" + a.responseView.outerHeight() + "px",
+                                },
+                                a.speed + 500,
+                                function () {
+                                  a.responseView.css({
+                                    position: "static",
+                                    margin: "0px",
+                                  }),
+                                    a.wpvPaginatorLayout
+                                      .unwrap()
+                                      .unwrap()
+                                      .remove(),
+                                    a.wpvPaginatorFilter.html(a.responseFilter),
+                                    (window.wpvPaginationAjaxLoaded[
+                                      a.view_number
+                                    ] = !0),
+                                    (window.wpvPaginationAnimationFinished[
+                                      a.view_number
+                                    ] = !0),
+                                    a.callback_next_func(),
+                                    t.manage_browser_history(o),
+                                    e(document).trigger(
+                                      "js_event_wpv_pagination_completed",
+                                      [n]
+                                    ),
+                                    t.pagination_queue_trigger(
+                                      a.view_number,
+                                      a.next,
+                                      a.wpvPaginatorFilter
+                                    );
+                                }
+                              )
                             : i > r
                             ? a.wpvPaginatorLayout
                                 .parent()
@@ -2420,13 +2408,11 @@
                       ),
                       setTimeout(function () {
                         (r = a.responseView.outerHeight()),
-                          a.wpvPaginatorLayout
-                            .parent()
-                            .css({
-                              position: "relative",
-                              "margin-top":
-                                "-" + a.responseView.outerHeight() + "px",
-                            }),
+                          a.wpvPaginatorLayout.parent().css({
+                            position: "relative",
+                            "margin-top":
+                              "-" + a.responseView.outerHeight() + "px",
+                          }),
                           i === r
                             ? a.wpvPaginatorLayout
                                 .parent()

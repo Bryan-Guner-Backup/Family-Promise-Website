@@ -3973,13 +3973,11 @@
                           else {
                             if (u === t)
                               return (
-                                c
-                                  .find(".et-pb-inactive-slide")
-                                  .css({
-                                    "z-index": "",
-                                    display: "",
-                                    opacity: 0,
-                                  }),
+                                c.find(".et-pb-inactive-slide").css({
+                                  "z-index": "",
+                                  display: "",
+                                  opacity: 0,
+                                }),
                                 e
                                   .css({ display: "block", opacity: 1 })
                                   .data("slide-status", "active"),
@@ -4441,13 +4439,11 @@
                               parseInt(
                                 r.first().css("marginRight").slice(0, -2)
                               );
-                            p
-                              .addClass("active")
-                              .css({
-                                position: "absolute",
-                                top: "0px",
-                                left: "".concat(w, "px"),
-                              }),
+                            p.addClass("active").css({
+                              position: "absolute",
+                              top: "0px",
+                              left: "".concat(w, "px"),
+                            }),
                               p.animate(
                                 { left: "0%" },
                                 {
@@ -4652,13 +4648,11 @@
                               parseInt(
                                 r.first().css("marginRight").slice(0, -2)
                               );
-                            y
-                              .addClass("active")
-                              .css({
-                                position: "absolute",
-                                top: "0px",
-                                left: "".concat(P, "px"),
-                              }),
+                            y.addClass("active").css({
+                              position: "absolute",
+                              top: "0px",
+                              left: "".concat(P, "px"),
+                            }),
                               y.animate(
                                 { left: "0%" },
                                 {
@@ -5511,13 +5505,11 @@
                                     },
                                   }
                                 ),
-                                g
-                                  .addClass("active")
-                                  .css({
-                                    position: "absolute",
-                                    top: "0px",
-                                    left: "-100%",
-                                  }),
+                                g.addClass("active").css({
+                                  position: "absolute",
+                                  top: "0px",
+                                  left: "-100%",
+                                }),
                                 g.animate(
                                   { left: "0%" },
                                   {
@@ -5586,14 +5578,12 @@
                                             i,
                                             ".et_pb_portfolio_item:visible"
                                           ),
-                                          g
-                                            .children()
-                                            .css({
-                                              position: "",
-                                              width: l,
-                                              "max-width": l,
-                                              left: "",
-                                            }),
+                                          g.children().css({
+                                            position: "",
+                                            width: l,
+                                            "max-width": l,
+                                            left: "",
+                                          }),
                                           e.data("carouseling", !1);
                                       }, 100);
                                     },
