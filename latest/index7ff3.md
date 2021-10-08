@@ -1,39 +1,39 @@
--   <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
--   <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
--   <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
+- <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
+- <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
+- <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
 
 <!-- -->
 
--   [Need Help?](https://familypromise.org/get-help/)
--   [Become an Affiliate](https://familypromise.org/what-we-do/affiliates/become-an-affiliate/)
--   [Affiliate Login](https://affiliates.familypromise.org/)
--   [Events](https://familypromise.org/events/)
--   [Press](https://familypromise.org/press/)
--   [Contact](https://familypromise.org/contact/)
+- [Need Help?](https://familypromise.org/get-help/)
+- [Become an Affiliate](https://familypromise.org/what-we-do/affiliates/become-an-affiliate/)
+- [Affiliate Login](https://affiliates.familypromise.org/)
+- [Events](https://familypromise.org/events/)
+- [Press](https://familypromise.org/press/)
+- [Contact](https://familypromise.org/contact/)
 
 <span class="logo_helper"></span> [<img src="https://familypromise.org/wp-content/uploads/2021/03/FP-logo-horiz.png" alt="Family Promise" id="logo" width="2000" height="492" />](https://familypromise.org/)
 
--   [Who We Are](https://familypromise.org/who-we-are/)
-    -   [Story](https://familypromise.org/who-we-are/story/)
-    -   [Purpose](https://familypromise.org/who-we-are/purpose/)
-    -   [Team](https://familypromise.org/who-we-are/team/)
-    -   [Board](https://familypromise.org/who-we-are/board/)
-    -   [Committees & Councils](https://familypromise.org/who-we-are/committees-councils/)
-    -   [Partners](https://familypromise.org/who-we-are/partners/)
--   [What We Do](https://familypromise.org/what-we-do/)
-    -   [Programs & Services](https://familypromise.org/what-we-do/programs-services/)
-    -   [Affiliates](https://familypromise.org/what-we-do/affiliates/)
-    -   [FP Union County](https://familypromise.org/what-we-do/fp-union-county/)
-    -   [Reports & Financials](https://familypromise.org/what-we-do/reports-financials/)
--   [Latest](https://familypromise.org/latest/)
--   [Get Involved](https://familypromise.org/get-involved/)
-    -   [Volunteer](https://familypromise.org/get-involved/volunteer/)
-    -   [Become a Partner](https://familypromise.org/who-we-are/partners/)
-    -   [Join the Promise Guild](https://familypromise.org/donate/join-the-promise-guild/)
-    -   [Create a Fundraiser](https://donate.familypromise.org/my-FP-Fundraiser)
-    -   [Houses for Change ®](https://familypromise.org/get-involved/houses-for-change/)
-    -   [Join Our Team](https://familypromise.org/get-involved/employment/)
--   [Donate](https://familypromise.org/donate/)
+- [Who We Are](https://familypromise.org/who-we-are/)
+  - [Story](https://familypromise.org/who-we-are/story/)
+  - [Purpose](https://familypromise.org/who-we-are/purpose/)
+  - [Team](https://familypromise.org/who-we-are/team/)
+  - [Board](https://familypromise.org/who-we-are/board/)
+  - [Committees & Councils](https://familypromise.org/who-we-are/committees-councils/)
+  - [Partners](https://familypromise.org/who-we-are/partners/)
+- [What We Do](https://familypromise.org/what-we-do/)
+  - [Programs & Services](https://familypromise.org/what-we-do/programs-services/)
+  - [Affiliates](https://familypromise.org/what-we-do/affiliates/)
+  - [FP Union County](https://familypromise.org/what-we-do/fp-union-county/)
+  - [Reports & Financials](https://familypromise.org/what-we-do/reports-financials/)
+- [Latest](https://familypromise.org/latest/)
+- [Get Involved](https://familypromise.org/get-involved/)
+  - [Volunteer](https://familypromise.org/get-involved/volunteer/)
+  - [Become a Partner](https://familypromise.org/who-we-are/partners/)
+  - [Join the Promise Guild](https://familypromise.org/donate/join-the-promise-guild/)
+  - [Create a Fundraiser](https://donate.familypromise.org/my-FP-Fundraiser)
+  - [Houses for Change ®](https://familypromise.org/get-involved/houses-for-change/)
+  - [Join Our Team](https://familypromise.org/get-involved/employment/)
+- [Donate](https://familypromise.org/donate/)
 
 <span id="et_search_icon"></span>
 
@@ -41,23 +41,21 @@
 
 <span class="et_close_search_field"></span>
 
-Latest
-======
+# Latest
 
 ### CATEGORIES
 
--   <span id="post_category-13">Affiliate News</span>
--   <span id="post_category-12">National News</span>
--   <span id="post_category-68">News</span>
--   <span id="post_category-11">Press Releases</span>
--   <span id="post_category-10">Success Stories</span>
--   <span id="post_category-1">Uncategorized</span>
--   <span id="post_category-9">Voices of Family Promise</span>
+- <span id="post_category-13">Affiliate News</span>
+- <span id="post_category-12">National News</span>
+- <span id="post_category-68">News</span>
+- <span id="post_category-11">Press Releases</span>
+- <span id="post_category-10">Success Stories</span>
+- <span id="post_category-1">Uncategorized</span>
+- <span id="post_category-9">Voices of Family Promise</span>
 
 [](https://familypromise.org/latest/identification/)
 
-[Securing Documentation and Finding Stability ](https://familypromise.org/latest/identification/)
--------------------------------------------------------------------------------------------------
+## [Securing Documentation and Finding Stability ](https://familypromise.org/latest/identification/)
 
 May 10, 2021 | [Voices of Family Promise](https://familypromise.org/latest/category/voices-of-family-promise/)
 
@@ -66,8 +64,7 @@ As part of our ongoing conversation on homelessness, we asked members of the Fam
 
 [](https://familypromise.org/latest/belk-partnership-empowers-women/)
 
-[Family Promise- Belk Partnership Empowers Women-Led Households](https://familypromise.org/latest/belk-partnership-empowers-women/)
------------------------------------------------------------------------------------------------------------------------------------
+## [Family Promise- Belk Partnership Empowers Women-Led Households](https://familypromise.org/latest/belk-partnership-empowers-women/)
 
 May 10, 2021 | [Press Releases](https://familypromise.org/latest/category/press-releases/)
 
@@ -76,8 +73,7 @@ Summit, NJ— Single mom Savannah Foxx, an EMT who has spent the last year helpi
 
 [](https://familypromise.org/latest/hermes-awards/)
 
-[Family Promise Receives Two Hermes Awards for Creative Efforts](https://familypromise.org/latest/hermes-awards/)
------------------------------------------------------------------------------------------------------------------
+## [Family Promise Receives Two Hermes Awards for Creative Efforts](https://familypromise.org/latest/hermes-awards/)
 
 May 7, 2021 | [Press Releases](https://familypromise.org/latest/category/press-releases/)
 
@@ -86,8 +82,7 @@ Family Promise’s work was selected among more than 230,000 entries to receive 
 
 [](https://familypromise.org/latest/ikea-2/)
 
-[IKEA donates $25k worth of furniture to Family Promise](https://familypromise.org/latest/ikea-2/)
---------------------------------------------------------------------------------------------------
+## [IKEA donates $25k worth of furniture to Family Promise](https://familypromise.org/latest/ikea-2/)
 
 May 3, 2021 | [Press Releases](https://familypromise.org/latest/category/press-releases/)
 
@@ -96,8 +91,7 @@ Recently, Ikea donated $25,000 worth of furniture to Family Promise of Lawrence,
 
 [](https://familypromise.org/latest/family-promise-of-tualatin-valley/)
 
-[Family Promise of Tualatin Valley: Fighting for Housing Fairness](https://familypromise.org/latest/family-promise-of-tualatin-valley/)
----------------------------------------------------------------------------------------------------------------------------------------
+## [Family Promise of Tualatin Valley: Fighting for Housing Fairness](https://familypromise.org/latest/family-promise-of-tualatin-valley/)
 
 May 3, 2021 | [Affiliate News](https://familypromise.org/latest/category/affiliate-news/), [Success Stories](https://familypromise.org/latest/category/success-stories/)
 
@@ -106,8 +100,7 @@ Since the onset of the COVID-19 pandemic, countless families have lost income, b
 
 [](https://familypromise.org/latest/truist/)
 
-[Family Promise Receives a $25,000 Grant from Truist Foundation](https://familypromise.org/latest/truist/)
-----------------------------------------------------------------------------------------------------------
+## [Family Promise Receives a $25,000 Grant from Truist Foundation](https://familypromise.org/latest/truist/)
 
 April 28, 2021 | [Press Releases](https://familypromise.org/latest/category/press-releases/)
 
@@ -116,8 +109,7 @@ Summit, NJ, (April 28, 2021) – Family Promise has received a $25,000 grant fro
 
 [](https://familypromise.org/latest/new-jersey-pandemic-relief/)
 
-[Family Promise Receives $250,000 from New Jersey Pandemic Relief Fund to Further Homelessness Prevention Efforts Across New Jersey](https://familypromise.org/latest/new-jersey-pandemic-relief/)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [Family Promise Receives $250,000 from New Jersey Pandemic Relief Fund to Further Homelessness Prevention Efforts Across New Jersey](https://familypromise.org/latest/new-jersey-pandemic-relief/)
 
 April 28, 2021 | [Press Releases](https://familypromise.org/latest/category/press-releases/)
 
@@ -126,8 +118,7 @@ Second Gift from New Jersey Pandemic Relief Fund to Family Promise will be distr
 
 [](https://familypromise.org/latest/transportation/)
 
-[Family Promise Union County Helps Families on The Road to Independence](https://familypromise.org/latest/transportation/)
---------------------------------------------------------------------------------------------------------------------------
+## [Family Promise Union County Helps Families on The Road to Independence](https://familypromise.org/latest/transportation/)
 
 April 26, 2021 | [Affiliate News](https://familypromise.org/latest/category/affiliate-news/)
 
@@ -136,8 +127,7 @@ Imagine your car breaks down for the second time this month. You spent hours sea
 
 [](https://familypromise.org/latest/selectquote/)
 
-[SelectQuote Volunteers at Family Promise of Lawrence County](https://familypromise.org/latest/selectquote/)
-------------------------------------------------------------------------------------------------------------
+## [SelectQuote Volunteers at Family Promise of Lawrence County](https://familypromise.org/latest/selectquote/)
 
 April 22, 2021 | [National News](https://familypromise.org/latest/category/national-news/)
 
@@ -146,8 +136,7 @@ April 18 – April 24, 2021 is National Volunteer Week. At Family Promise, none 
 
 [](https://familypromise.org/latest/statement/)
 
-[Family Promise Statement on the Derek Chauvin Trial Verdict](https://familypromise.org/latest/statement/)
-----------------------------------------------------------------------------------------------------------
+## [Family Promise Statement on the Derek Chauvin Trial Verdict](https://familypromise.org/latest/statement/)
 
 April 20, 2021 | [Press Releases](https://familypromise.org/latest/category/press-releases/)
 
@@ -156,8 +145,7 @@ There have been innumerable instances of racial injustice and inequality in our 
 
 [](https://familypromise.org/latest/10-stats-that-show-how-covid-19-has-worsened-housing-inequality/)
 
-[10 Stats That Show How COVID-19 Has Worsened Housing Inequality](https://familypromise.org/latest/10-stats-that-show-how-covid-19-has-worsened-housing-inequality/)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [10 Stats That Show How COVID-19 Has Worsened Housing Inequality](https://familypromise.org/latest/10-stats-that-show-how-covid-19-has-worsened-housing-inequality/)
 
 April 19, 2021 | [National News](https://familypromise.org/latest/category/national-news/)
 
@@ -166,95 +154,93 @@ April 19, 2021 | [National News](https://familypromise.org/latest/category/natio
 
 [](https://familypromise.org/latest/family-promise-giving-day-2/)
 
-[Family Promise Giving Day Will Raise Awareness and Funds to Keep Low-Income Families Housed](https://familypromise.org/latest/family-promise-giving-day-2/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [Family Promise Giving Day Will Raise Awareness and Funds to Keep Low-Income Families Housed](https://familypromise.org/latest/family-promise-giving-day-2/)
 
 April 15, 2021 | [National News](https://familypromise.org/latest/category/national-news/), [Press Releases](https://familypromise.org/latest/category/press-releases/)
 
 National Organization Sees Increase in Number of U.S. Families Experiencing Homelessness Summit, New Jersey, April 21, 2021 – Family Promise, the nation’s leading nonprofit working to prevent and end family homelessness, has seen an increase in families seeking assistance since the start of the Coronavirus Pandemic. In response to this, …  
 [**READ MORE**](https://familypromise.org/latest/family-promise-giving-day-2/)
 
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=3" class="wpv-filter-previous-link js-wpv-pagination-previous-link page-link">PREV</a>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="1">1</a>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=2" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="2">2</a>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=3" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="3">3</a>
--   <span class="wpv-filter-pagination-link page-link">4</span>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=5" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="5">5</a>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=6" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="6">6</a>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=7" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="7">7</a>
--   <span class="wpv_page_ellipsis"></span>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=10" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="10">10</a>
--   <span class="wpv_page_ellipsis"></span>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=20" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="20">20</a>
--   <span class="wpv_page_ellipsis"></span>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=30" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="30">30</a>
--   <span class="wpv_page_ellipsis"></span>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=36" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="36">36</a>
--   <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=5" class="wpv-filter-next-link js-wpv-pagination-next-link page-link">NEXT</a>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=3" class="wpv-filter-previous-link js-wpv-pagination-previous-link page-link">PREV</a>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="1">1</a>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=2" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="2">2</a>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=3" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="3">3</a>
+- <span class="wpv-filter-pagination-link page-link">4</span>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=5" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="5">5</a>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=6" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="6">6</a>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=7" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="7">7</a>
+- <span class="wpv_page_ellipsis"></span>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=10" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="10">10</a>
+- <span class="wpv_page_ellipsis"></span>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=20" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="20">20</a>
+- <span class="wpv_page_ellipsis"></span>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=30" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="30">30</a>
+- <span class="wpv_page_ellipsis"></span>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=36" class="wpv-filter-pagination-link js-wpv-pagination-link page-link" title="36">36</a>
+- <a href="https://familypromise.org/latest/?wpv_view_count=2941&amp;wpv_paged=5" class="wpv-filter-next-link js-wpv-pagination-next-link page-link">NEXT</a>
 
-Connect with Us on Social Media
--------------------------------
+## Connect with Us on Social Media
 
--   <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
--   <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
--   <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
+- <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
+- <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
+- <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
 
 ### Make A DOnation
 
 Your gift to Family Promise helps us prevent and end family homelessness in over 200 communities across the U.S.
 
--   <span id="field_4_1">First Name</span>
+- <span id="field_4_1">First Name</span>
 
--   <span id="field_4_2">Last Name</span>
+- <span id="field_4_2">Last Name</span>
 
--   <span id="field_4_3">Amount</span>
+- <span id="field_4_3">Amount</span>
 
--   <span id="field_4_4">Name</span>
+- <span id="field_4_4">Name</span>
 
-    This field is for validation purposes and should be left unchanged.
+  This field is for validation purposes and should be left unchanged.
 
 ### JOIN THE LIST
 
 Join our mailing list to keep up with all things Family Promise from family stories to events and more!
 
--   <span id="field_1_1">First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_1">First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_3">Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_3">Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_4">Email Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_4">Email Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_5">Comments</span>
+- <span id="field_1_5">Comments</span>
 
-    This field is for validation purposes and should be left unchanged.
+  This field is for validation purposes and should be left unchanged.
 
 <span class="et_pb_image_wrap"><img src="https://familypromise.org/wp-content/uploads/2021/03/logo-fp-white.png" title="logo-fp-white" class="wp-image-1575" sizes="(max-width: 306px) 100vw, 306px" srcset="https://familypromise.org/wp-content/uploads/2021/03/logo-fp-white.png 306w, https://familypromise.org/wp-content/uploads/2021/03/logo-fp-white-300x126.png 300w" width="306" height="129" /></span>
 
--   <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
--   <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
--   <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
+- <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
+- <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
+- <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
 
 Our mission is to help families experiencing homelessness and low-income families achieve sustainable independence through a community-based response.
 
--   <span id="menu-item-1555">[Who We Are](https://familypromise.org/who-we-are/)</span>
--   <span id="menu-item-1554">[What We Do](https://familypromise.org/what-we-do/)</span>
--   <span id="menu-item-1549">[Latest](https://familypromise.org/latest/)</span>
--   <span id="menu-item-1553">[Get Involved](https://familypromise.org/get-involved/)</span>
--   <span id="menu-item-5353">[Donate](https://familypromise.org/donate/)</span>
--   <span id="menu-item-1556">[Events](https://familypromise.org/events/)</span>
--   <span id="menu-item-1557">[Store](http://family-promise-store.myshopify.com/)</span>
--   <span id="menu-item-1552">[Need Help?](https://familypromise.org/get-help/)</span>
--   <span id="menu-item-3790">[Press](https://familypromise.org/press/)</span>
--   <span id="menu-item-5840">[Infographics](https://familypromise.org/press/infographics/)</span>
--   <span id="menu-item-1550">[Contact](https://familypromise.org/contact/)</span>
+- <span id="menu-item-1555">[Who We Are](https://familypromise.org/who-we-are/)</span>
+- <span id="menu-item-1554">[What We Do](https://familypromise.org/what-we-do/)</span>
+- <span id="menu-item-1549">[Latest](https://familypromise.org/latest/)</span>
+- <span id="menu-item-1553">[Get Involved](https://familypromise.org/get-involved/)</span>
+- <span id="menu-item-5353">[Donate](https://familypromise.org/donate/)</span>
+- <span id="menu-item-1556">[Events](https://familypromise.org/events/)</span>
+- <span id="menu-item-1557">[Store](http://family-promise-store.myshopify.com/)</span>
+- <span id="menu-item-1552">[Need Help?](https://familypromise.org/get-help/)</span>
+- <span id="menu-item-3790">[Press](https://familypromise.org/press/)</span>
+- <span id="menu-item-5840">[Infographics](https://familypromise.org/press/infographics/)</span>
+- <span id="menu-item-1550">[Contact](https://familypromise.org/contact/)</span>
 
 © 2004 - 2020 Family Promise.  All Rights Reserved.  501(c)3 Nonprofit.  [EIN: 52-1591461](https://familypromise.org/financials/)
 
 [Privacy Policies](https://familypromise.org/privacy-policy/)      [Terms of Use](https://familypromise.org/terms-of-use/)
 
--   <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;t=Latest" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="http://twitter.com/share?text=Latest&amp;url=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;via=@fpnational" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;title=Latest" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Latest&amp;body=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;t=Latest" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://twitter.com/share?text=Latest&amp;url=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;via=@fpnational" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;title=Latest" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Latest&amp;body=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
 
 <span class="et_social_hide_sidebar et_social_icon"></span>
 
@@ -262,19 +248,22 @@ Share This
 
 <span class="et_social_close"></span>
 
--   <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;t=Latest" class="et_social_share"><em></em></a>
-    Facebook
+- <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;t=Latest" class="et_social_share"><em></em></a>
+  Facebook
 
-    <span class="et_social_overlay"></span>
--   <a href="http://twitter.com/share?text=Latest&amp;url=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;via=@fpnational" class="et_social_share"><em></em></a>
-    Twitter
+  <span class="et_social_overlay"></span>
 
-    <span class="et_social_overlay"></span>
--   <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;title=Latest" class="et_social_share"><em></em></a>
-    LinkedIn
+- <a href="http://twitter.com/share?text=Latest&amp;url=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;via=@fpnational" class="et_social_share"><em></em></a>
+  Twitter
 
-    <span class="et_social_overlay"></span>
--   <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Latest&amp;body=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em></a>
-    Gmail
+  <span class="et_social_overlay"></span>
 
-    <span class="et_social_overlay"></span>
+- <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;title=Latest" class="et_social_share"><em></em></a>
+  LinkedIn
+
+  <span class="et_social_overlay"></span>
+
+- <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Latest&amp;body=https%3A%2F%2Ffamilypromise.org%2Flatest%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em></a>
+  Gmail
+
+  <span class="et_social_overlay"></span>

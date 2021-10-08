@@ -1,39 +1,39 @@
--   <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
--   <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
--   <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
+- <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
+- <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
+- <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
 
 <!-- -->
 
--   [Need Help?](../../get-help/index.html)
--   [Become an Affiliate](../../what-we-do/affiliates/become-an-affiliate/index.html)
--   [Affiliate Login](https://affiliates.familypromise.org/)
--   [Events](../../events/index.html)
--   [Press](../../press/index.html)
--   [Contact](../../contact/index.html)
+- [Need Help?](../../get-help/index.html)
+- [Become an Affiliate](../../what-we-do/affiliates/become-an-affiliate/index.html)
+- [Affiliate Login](https://affiliates.familypromise.org/)
+- [Events](../../events/index.html)
+- [Press](../../press/index.html)
+- [Contact](../../contact/index.html)
 
 <span class="logo_helper"></span> [<img src="../../wp-content/uploads/2021/03/FP-logo-horiz.png" alt="Family Promise" id="logo" width="2000" height="492" />](../../index.html)
 
--   [Who We Are](../index.html)
-    -   [Story](../story/index.html)
-    -   [Purpose](../purpose/index.html)
-    -   [Team](index.html)
-    -   [Board](../board/index.html)
-    -   [Committees & Councils](../committees-councils/index.html)
-    -   [Partners](../partners/index.html)
--   [What We Do](../../what-we-do/index.html)
-    -   [Programs & Services](../../what-we-do/programs-services/index.html)
-    -   [Affiliates](../../what-we-do/affiliates/index.html)
-    -   [FP Union County](../../what-we-do/fp-union-county/index.html)
-    -   [Reports & Financials](../../what-we-do/reports-financials/index.html)
--   [Latest](../../latest/index.html)
--   [Get Involved](../../get-involved/index.html)
-    -   [Volunteer](../../get-involved/volunteer/index.html)
-    -   [Become a Partner](../partners/index.html)
-    -   [Join the Promise Guild](../../donate/join-the-promise-guild/index.html)
-    -   [Create a Fundraiser](https://donate.familypromise.org/my-FP-Fundraiser)
-    -   [Houses for Change ®](../../get-involved/houses-for-change/index.html)
-    -   [Join Our Team](../../get-involved/employment/index.html)
--   [Donate](../../donate/index.html)
+- [Who We Are](../index.html)
+  - [Story](../story/index.html)
+  - [Purpose](../purpose/index.html)
+  - [Team](index.html)
+  - [Board](../board/index.html)
+  - [Committees & Councils](../committees-councils/index.html)
+  - [Partners](../partners/index.html)
+- [What We Do](../../what-we-do/index.html)
+  - [Programs & Services](../../what-we-do/programs-services/index.html)
+  - [Affiliates](../../what-we-do/affiliates/index.html)
+  - [FP Union County](../../what-we-do/fp-union-county/index.html)
+  - [Reports & Financials](../../what-we-do/reports-financials/index.html)
+- [Latest](../../latest/index.html)
+- [Get Involved](../../get-involved/index.html)
+  - [Volunteer](../../get-involved/volunteer/index.html)
+  - [Become a Partner](../partners/index.html)
+  - [Join the Promise Guild](../../donate/join-the-promise-guild/index.html)
+  - [Create a Fundraiser](https://donate.familypromise.org/my-FP-Fundraiser)
+  - [Houses for Change ®](../../get-involved/houses-for-change/index.html)
+  - [Join Our Team](../../get-involved/employment/index.html)
+- [Donate](../../donate/index.html)
 
 <span id="et_search_icon"></span>
 
@@ -41,15 +41,13 @@
 
 <span class="et_close_search_field"></span>
 
-Team
-====
+# Team
 
 <span property="itemListElement" typeof="ListItem"><a href="../index.html" class="post post-page" title="Go to Who We Are."><span data-property="name">Who We Are</span></a></span>
 
 <a href="index.html" class="active">Team</a> [Board](../board/index.html) [Committees & Councils](../committees-councils/index.html)
 
-STAFF
------
+## STAFF
 
 Our dynamic team is passionate about solving the issue of family homelessness. We offer expertise in non-profit best practices, technical assistance, program development, fundraising, and communications so our Affiliates can empower families into sustainable independence. Our flagship program in Union County serves as an incubator of innovation. Raising awareness of the issue and elevating voices of families with lived experience are goals in all we do.  
 For general information, please call our main number at (908) 273-1100 or email us at info@familypromise.org. All staff extensions listed below are for our main number.
@@ -369,7 +367,7 @@ Policy & Program Associate
 
 Sadie Keller is passionate about improving public policy and supporting families. Before joining Family Promise, Sadie taught university-level English in Mexico City as a Fulbright Scholar. She graduated from Oberlin College in 2019, where she studied Politics and Hispanic Studies. At Oberlin, Sadie developed and managed a volunteer program, which helped more than 50 Ohio residents become U.S. citizens. She was awarded a Harry S. Truman Scholarship for her commitment to public service. Sadie has experience at think tanks, on Capitol Hill, with nonprofits, and on political campaigns. Her research on immigration and electoral politics has been featured in national news sources.
 
-As Policy & Program Associate, Sadie researches and oversees policies related to homelessness prevention. She focuses on diverting families from shelter and stabilizing families as they continue their independent lives. Sadie guides the *A Future Begins at Home* initiative, including Affiliate grants designed to keep families in their homes and avoid eviction. She also manages a portfolio of corporate partnerships, connecting with thought leaders and business professionals to develop new programs and support the work of Family Promise.
+As Policy & Program Associate, Sadie researches and oversees policies related to homelessness prevention. She focuses on diverting families from shelter and stabilizing families as they continue their independent lives. Sadie guides the _A Future Begins at Home_ initiative, including Affiliate grants designed to keep families in their homes and avoid eviction. She also manages a portfolio of corporate partnerships, connecting with thought leaders and business professionals to develop new programs and support the work of Family Promise.
 
 Sadie lives in the Boston area, and loves to try new recipes, travel, and play soccer.
 
@@ -757,58 +755,58 @@ Ext. 143
 
 Your gift to Family Promise helps us prevent and end family homelessness in over 200 communities across the U.S.
 
--   <span id="field_4_1">First Name</span>
+- <span id="field_4_1">First Name</span>
 
--   <span id="field_4_2">Last Name</span>
+- <span id="field_4_2">Last Name</span>
 
--   <span id="field_4_3">Amount</span>
+- <span id="field_4_3">Amount</span>
 
--   <span id="field_4_4">Email</span>
+- <span id="field_4_4">Email</span>
 
-    This field is for validation purposes and should be left unchanged.
+  This field is for validation purposes and should be left unchanged.
 
 ### JOIN THE LIST
 
 Join our mailing list to keep up with all things Family Promise from family stories to events and more!
 
--   <span id="field_1_1">First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_1">First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_3">Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_3">Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_4">Email Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_4">Email Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_5">Phone</span>
+- <span id="field_1_5">Phone</span>
 
-    This field is for validation purposes and should be left unchanged.
+  This field is for validation purposes and should be left unchanged.
 
 <span class="et_pb_image_wrap"><img src="../../wp-content/uploads/2021/03/logo-fp-white.png" title="logo-fp-white" class="wp-image-1575" sizes="(max-width: 306px) 100vw, 306px" srcset="https://familypromise.org/wp-content/uploads/2021/03/logo-fp-white.png 306w, https://familypromise.org/wp-content/uploads/2021/03/logo-fp-white-300x126.png 300w" width="306" height="129" /></span>
 
--   <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
--   <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
--   <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
+- <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
+- <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
+- <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
 
 Our mission is to help families experiencing homelessness and low-income families achieve sustainable independence through a community-based response.
 
--   <span id="menu-item-1555">[Who We Are](../index.html)</span>
--   <span id="menu-item-1554">[What We Do](../../what-we-do/index.html)</span>
--   <span id="menu-item-1549">[Latest](../../latest/index.html)</span>
--   <span id="menu-item-1553">[Get Involved](../../get-involved/index.html)</span>
--   <span id="menu-item-5353">[Donate](../../donate/index.html)</span>
--   <span id="menu-item-1556">[Events](../../events/index.html)</span>
--   <span id="menu-item-1557">[Store](http://family-promise-store.myshopify.com/)</span>
--   <span id="menu-item-1552">[Need Help?](../../get-help/index.html)</span>
--   <span id="menu-item-3790">[Press](../../press/index.html)</span>
--   <span id="menu-item-5840">[Infographics](../../press/infographics/index.html)</span>
--   <span id="menu-item-1550">[Contact](../../contact/index.html)</span>
+- <span id="menu-item-1555">[Who We Are](../index.html)</span>
+- <span id="menu-item-1554">[What We Do](../../what-we-do/index.html)</span>
+- <span id="menu-item-1549">[Latest](../../latest/index.html)</span>
+- <span id="menu-item-1553">[Get Involved](../../get-involved/index.html)</span>
+- <span id="menu-item-5353">[Donate](../../donate/index.html)</span>
+- <span id="menu-item-1556">[Events](../../events/index.html)</span>
+- <span id="menu-item-1557">[Store](http://family-promise-store.myshopify.com/)</span>
+- <span id="menu-item-1552">[Need Help?](../../get-help/index.html)</span>
+- <span id="menu-item-3790">[Press](../../press/index.html)</span>
+- <span id="menu-item-5840">[Infographics](../../press/infographics/index.html)</span>
+- <span id="menu-item-1550">[Contact](../../contact/index.html)</span>
 
 © 2004 - 2020 Family Promise.  All Rights Reserved.  501(c)3 Nonprofit.  [EIN: 52-1591461](../../financials/index.html)
 
 [Privacy Policies](../../privacy-policy/index.html)      [Terms of Use](../../terms-of-use/index.html)
 
--   <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;t=Team" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="http://twitter.com/share?text=Team&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;via=@fpnational" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;title=Team" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Team&amp;body=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;t=Team" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://twitter.com/share?text=Team&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;via=@fpnational" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;title=Team" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Team&amp;body=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
 
 <span class="et_social_hide_sidebar et_social_icon"></span>
 
@@ -816,19 +814,22 @@ Share This
 
 <span class="et_social_close"></span>
 
--   <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;t=Team" class="et_social_share"><em></em></a>
-    Facebook
+- <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;t=Team" class="et_social_share"><em></em></a>
+  Facebook
 
-    <span class="et_social_overlay"></span>
--   <a href="http://twitter.com/share?text=Team&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;via=@fpnational" class="et_social_share"><em></em></a>
-    Twitter
+  <span class="et_social_overlay"></span>
 
-    <span class="et_social_overlay"></span>
--   <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;title=Team" class="et_social_share"><em></em></a>
-    LinkedIn
+- <a href="http://twitter.com/share?text=Team&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;via=@fpnational" class="et_social_share"><em></em></a>
+  Twitter
 
-    <span class="et_social_overlay"></span>
--   <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Team&amp;body=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em></a>
-    Gmail
+  <span class="et_social_overlay"></span>
 
-    <span class="et_social_overlay"></span>
+- <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;title=Team" class="et_social_share"><em></em></a>
+  LinkedIn
+
+  <span class="et_social_overlay"></span>
+
+- <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Team&amp;body=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fteam%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em></a>
+  Gmail
+
+  <span class="et_social_overlay"></span>

@@ -53,8 +53,6 @@
 
 The Hermes Awards are administrated by the Association of Marketing and Communication Professionals (AMCP). The AMCP, established in 1995, is one of the largest and oldest, third-party evaluators of creative work in the world that supports the efforts of creative professionals who contribute their talents to public service and charitable endeavors. Family Promise was awarded a Platinum Award for our [2019 Annual Impact Report](https://fp2019air.familypromise.org/) and a Gold Award for our overall website. Family Promise is proud to be recognized among such an impressive group of winners across a wide range of industries across the globe. It is an honor to have our creative endeavors recognized and we will be sharing our newly updated website and annual impact report in the coming month.
 
-
-
 <span class="et_social_bottom_trigger"></span>
 
 #### Categories

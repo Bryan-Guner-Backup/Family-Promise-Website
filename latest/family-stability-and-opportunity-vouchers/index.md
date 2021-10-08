@@ -87,8 +87,6 @@ Read the press release from Senator Van Hollen [here](https://www.vanhollen.sena
 
 Send a letter to your federal elected officials urging them to support the Family Stability and Opportunity Vouchers Act [here](https://www.opportunityhome.org/take-action/bipartisan-family-stability-and-opportunity-vouchers-act/).
 
-
-
 <span class="et_social_bottom_trigger"></span>
 
 #### Categories

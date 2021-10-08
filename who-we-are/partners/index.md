@@ -1,39 +1,39 @@
--   <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
--   <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
--   <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
+- <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
+- <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
+- <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
 
 <!-- -->
 
--   [Need Help?](../../get-help/index.html)
--   [Become an Affiliate](../../what-we-do/affiliates/become-an-affiliate/index.html)
--   [Affiliate Login](https://affiliates.familypromise.org/)
--   [Events](../../events/index.html)
--   [Press](../../press/index.html)
--   [Contact](../../contact/index.html)
+- [Need Help?](../../get-help/index.html)
+- [Become an Affiliate](../../what-we-do/affiliates/become-an-affiliate/index.html)
+- [Affiliate Login](https://affiliates.familypromise.org/)
+- [Events](../../events/index.html)
+- [Press](../../press/index.html)
+- [Contact](../../contact/index.html)
 
 <span class="logo_helper"></span> [<img src="../../wp-content/uploads/2021/03/FP-logo-horiz.png" alt="Family Promise" id="logo" width="2000" height="492" />](../../index.html)
 
--   [Who We Are](../index.html)
-    -   [Story](../story/index.html)
-    -   [Purpose](../purpose/index.html)
-    -   [Team](../team/index.html)
-    -   [Board](../board/index.html)
-    -   [Committees & Councils](../committees-councils/index.html)
-    -   [Partners](index.html)
--   [What We Do](../../what-we-do/index.html)
-    -   [Programs & Services](../../what-we-do/programs-services/index.html)
-    -   [Affiliates](../../what-we-do/affiliates/index.html)
-    -   [FP Union County](../../what-we-do/fp-union-county/index.html)
-    -   [Reports & Financials](../../what-we-do/reports-financials/index.html)
--   [Latest](../../latest/index.html)
--   [Get Involved](../../get-involved/index.html)
-    -   [Volunteer](../../get-involved/volunteer/index.html)
-    -   [Become a Partner](index.html)
-    -   [Join the Promise Guild](../../donate/join-the-promise-guild/index.html)
-    -   [Create a Fundraiser](https://donate.familypromise.org/my-FP-Fundraiser)
-    -   [Houses for Change ®](../../get-involved/houses-for-change/index.html)
-    -   [Join Our Team](../../get-involved/employment/index.html)
--   [Donate](../../donate/index.html)
+- [Who We Are](../index.html)
+  - [Story](../story/index.html)
+  - [Purpose](../purpose/index.html)
+  - [Team](../team/index.html)
+  - [Board](../board/index.html)
+  - [Committees & Councils](../committees-councils/index.html)
+  - [Partners](index.html)
+- [What We Do](../../what-we-do/index.html)
+  - [Programs & Services](../../what-we-do/programs-services/index.html)
+  - [Affiliates](../../what-we-do/affiliates/index.html)
+  - [FP Union County](../../what-we-do/fp-union-county/index.html)
+  - [Reports & Financials](../../what-we-do/reports-financials/index.html)
+- [Latest](../../latest/index.html)
+- [Get Involved](../../get-involved/index.html)
+  - [Volunteer](../../get-involved/volunteer/index.html)
+  - [Become a Partner](index.html)
+  - [Join the Promise Guild](../../donate/join-the-promise-guild/index.html)
+  - [Create a Fundraiser](https://donate.familypromise.org/my-FP-Fundraiser)
+  - [Houses for Change ®](../../get-involved/houses-for-change/index.html)
+  - [Join Our Team](../../get-involved/employment/index.html)
+- [Donate](../../donate/index.html)
 
 <span id="et_search_icon"></span>
 
@@ -41,23 +41,19 @@
 
 <span class="et_close_search_field"></span>
 
-Partners
-========
+# Partners
 
 <span property="itemListElement" typeof="ListItem"><a href="../index.html" class="post post-page" title="Go to Who We Are."><span data-property="name">Who We Are</span></a></span>
 
-<span style="font-weight: 400;">We believe that preventing and ending family homelessness requires a community response. Our partners are a key part of that solution and provide needed resources to make achieving our mission possible.</span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <span style="font-weight: 400;">We believe that preventing and ending family homelessness requires a community response. Our partners are a key part of that solution and provide needed resources to make achieving our mission possible.</span>
 
-INTERESTED IN PARTNERING WITH US?
----------------------------------
+## INTERESTED IN PARTNERING WITH US?
 
 <span style="font-weight: 400;">We love to work with other corporations and organizations. To learn more about partnership opportunities with Family Promise, please use our contact form.</span>
 
 <a href="../../contact/index2086.html?subject=partnerships" class="et_pb_button et_pb_custom_button_icon et_pb_button_0 hover-darken et_pb_bg_layout_light">CONTACT US ABOUT BECOMING A PARTNER</a>
 
-STAR PREMIER PARTNERS
----------------------
+## STAR PREMIER PARTNERS
 
 ![](../../wp-content/uploads/2021/07/beiersdorf.jpg)
 
@@ -115,8 +111,7 @@ Progressive is working with Family Promise to ensure that the families we serve 
 
 ### Woodforest National Bank
 
-CORPORATE PARTNERS
-------------------
+## CORPORATE PARTNERS
 
 ![](../../wp-content/uploads/2021/05/partner-avocado.jpg)
 
@@ -148,8 +143,7 @@ CORPORATE PARTNERS
 
 ### eSalon
 
-CORPORATE SUPPORTERS
---------------------
+## CORPORATE SUPPORTERS
 
 20 Gates Management
 
@@ -189,8 +183,7 @@ Peerless Beverage Company
 
 R. Seelaus & Co., Inc.
 
-NONPROFIT PARTNERS
-------------------
+## NONPROFIT PARTNERS
 
 ![](../../wp-content/uploads/2021/05/partner-imagine.jpg)
 
@@ -220,10 +213,10 @@ The mission of the National Center for Missing & Exploited Children is to help f
 
 Family Promise is proud to partner with NCMEC to provide families experiencing homelessness and the professionals who serve them with information and access to reporting mechanisms, training to help identify missing and/or exploited children, and prevention education resources. This includes:
 
--   Training for Family Promise employees and volunteers to ensure they have access to information and are able to identify missing and/or exploited children who may be in their care;
--   Access to the NCMEC registry for intake;
--   Co-branded child IDs for distribution to families;
--   Select child safety resources to Family Promise for distribution to employees.
+- Training for Family Promise employees and volunteers to ensure they have access to information and are able to identify missing and/or exploited children who may be in their care;
+- Access to the NCMEC registry for intake;
+- Co-branded child IDs for distribution to families;
+- Select child safety resources to Family Promise for distribution to employees.
 
 ![](../../wp-content/uploads/2021/05/partner-petsmart.jpg)
 
@@ -285,66 +278,66 @@ SchoolHouse Connection helps Affiliates connect with school McKinney-Vento liais
 
 They are an Affiliate resource for:
 
--   Questions about the law (compliance, policy, practice) regarding early childhood, pre-K and higher education;
--   Assistance in connecting to local school districts and state departments of education;
--   Reporting on challenges and successes with local policy implementation of federal laws and funding.
+- Questions about the law (compliance, policy, practice) regarding early childhood, pre-K and higher education;
+- Assistance in connecting to local school districts and state departments of education;
+- Reporting on challenges and successes with local policy implementation of federal laws and funding.
 
 ### Make A DOnation
 
 Your gift to Family Promise helps us prevent and end family homelessness in over 200 communities across the U.S.
 
--   <span id="field_4_1">First Name</span>
+- <span id="field_4_1">First Name</span>
 
--   <span id="field_4_2">Last Name</span>
+- <span id="field_4_2">Last Name</span>
 
--   <span id="field_4_3">Amount</span>
+- <span id="field_4_3">Amount</span>
 
--   <span id="field_4_4">Phone</span>
+- <span id="field_4_4">Phone</span>
 
-    This field is for validation purposes and should be left unchanged.
+  This field is for validation purposes and should be left unchanged.
 
 ### JOIN THE LIST
 
 Join our mailing list to keep up with all things Family Promise from family stories to events and more!
 
--   <span id="field_1_1">First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_1">First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_3">Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_3">Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_4">Email Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
+- <span id="field_1_4">Email Address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">\*</span></span></span>
 
--   <span id="field_1_5">Comments</span>
+- <span id="field_1_5">Comments</span>
 
-    This field is for validation purposes and should be left unchanged.
+  This field is for validation purposes and should be left unchanged.
 
 <span class="et_pb_image_wrap"><img src="../../wp-content/uploads/2021/03/logo-fp-white.png" title="logo-fp-white" class="wp-image-1575" sizes="(max-width: 306px) 100vw, 306px" srcset="https://familypromise.org/wp-content/uploads/2021/03/logo-fp-white.png 306w, https://familypromise.org/wp-content/uploads/2021/03/logo-fp-white-300x126.png 300w" width="306" height="129" /></span>
 
--   <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
--   <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
--   <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
+- <a href="https://facebook.com/FamilyPromise" class="icon"><span>Facebook</span></a>
+- <a href="https://twitter.com/fpnational" class="icon"><span>Twitter</span></a>
+- <a href="https://www.instagram.com/family.promise" class="icon"><span>Instagram</span></a>
 
 Our mission is to help families experiencing homelessness and low-income families achieve sustainable independence through a community-based response.
 
--   <span id="menu-item-1555">[Who We Are](../index.html)</span>
--   <span id="menu-item-1554">[What We Do](../../what-we-do/index.html)</span>
--   <span id="menu-item-1549">[Latest](../../latest/index.html)</span>
--   <span id="menu-item-1553">[Get Involved](../../get-involved/index.html)</span>
--   <span id="menu-item-5353">[Donate](../../donate/index.html)</span>
--   <span id="menu-item-1556">[Events](../../events/index.html)</span>
--   <span id="menu-item-1557">[Store](http://family-promise-store.myshopify.com/)</span>
--   <span id="menu-item-1552">[Need Help?](../../get-help/index.html)</span>
--   <span id="menu-item-3790">[Press](../../press/index.html)</span>
--   <span id="menu-item-5840">[Infographics](../../press/infographics/index.html)</span>
--   <span id="menu-item-1550">[Contact](../../contact/index.html)</span>
+- <span id="menu-item-1555">[Who We Are](../index.html)</span>
+- <span id="menu-item-1554">[What We Do](../../what-we-do/index.html)</span>
+- <span id="menu-item-1549">[Latest](../../latest/index.html)</span>
+- <span id="menu-item-1553">[Get Involved](../../get-involved/index.html)</span>
+- <span id="menu-item-5353">[Donate](../../donate/index.html)</span>
+- <span id="menu-item-1556">[Events](../../events/index.html)</span>
+- <span id="menu-item-1557">[Store](http://family-promise-store.myshopify.com/)</span>
+- <span id="menu-item-1552">[Need Help?](../../get-help/index.html)</span>
+- <span id="menu-item-3790">[Press](../../press/index.html)</span>
+- <span id="menu-item-5840">[Infographics](../../press/infographics/index.html)</span>
+- <span id="menu-item-1550">[Contact](../../contact/index.html)</span>
 
 © 2004 - 2020 Family Promise.  All Rights Reserved.  501(c)3 Nonprofit.  [EIN: 52-1591461](../../financials/index.html)
 
 [Privacy Policies](../../privacy-policy/index.html)      [Terms of Use](../../terms-of-use/index.html)
 
--   <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;t=Partners" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="http://twitter.com/share?text=Partners&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;via=@fpnational" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;title=Partners" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
--   <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Partners&amp;body=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;t=Partners" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://twitter.com/share?text=Partners&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;via=@fpnational" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;title=Partners" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
+- <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Partners&amp;body=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em> <span class="et_social_overlay"></span></a>
 
 <span class="et_social_hide_sidebar et_social_icon"></span>
 
@@ -352,19 +345,22 @@ Share This
 
 <span class="et_social_close"></span>
 
--   <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;t=Partners" class="et_social_share"><em></em></a>
-    Facebook
+- <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;t=Partners" class="et_social_share"><em></em></a>
+  Facebook
 
-    <span class="et_social_overlay"></span>
--   <a href="http://twitter.com/share?text=Partners&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;via=@fpnational" class="et_social_share"><em></em></a>
-    Twitter
+  <span class="et_social_overlay"></span>
 
-    <span class="et_social_overlay"></span>
--   <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;title=Partners" class="et_social_share"><em></em></a>
-    LinkedIn
+- <a href="http://twitter.com/share?text=Partners&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;via=@fpnational" class="et_social_share"><em></em></a>
+  Twitter
 
-    <span class="et_social_overlay"></span>
--   <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Partners&amp;body=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em></a>
-    Gmail
+  <span class="et_social_overlay"></span>
 
-    <span class="et_social_overlay"></span>
+- <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;title=Partners" class="et_social_share"><em></em></a>
+  LinkedIn
+
+  <span class="et_social_overlay"></span>
+
+- <a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Partners&amp;body=https%3A%2F%2Ffamilypromise.org%2Fwho-we-are%2Fpartners%2F&amp;ui=2&amp;tf=1" class="et_social_share"><em></em></a>
+  Gmail
+
+  <span class="et_social_overlay"></span>
